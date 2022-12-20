@@ -14,7 +14,7 @@ labelCancelLoops:while(isNaN(temp)|| temp == null || temp == "") {
         break labelCancelLoops;
     }
 };
-//NOTA: No funciona la condición temp =="" si dejo el Number() or parseInt()    
+//NOTA: No funciona la condición temp =="" si dejo el Number() o parseInt()    
 //TERMINA Solicitud de la temperatura desde el prompt
 
 
